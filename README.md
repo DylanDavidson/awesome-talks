@@ -19,6 +19,12 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [ ] [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
 - [ ] [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
 - [ ] [Coding Sucks: Why a Job in Programming Is Absolute Hell](https://www.youtube.com/watch?v=MticYPfFRp8) by **Peter Welch (not shure)** 
+- [ ] [REST Api design](https://www.youtube.com/watch?v=HW9wWZHWhnI) by **Brian Sletten**
+- [ ] [GZIP is not enough! (partial css and js updates in gmail)](http:/www.youtube.com/watch?v=whGwm0Lky2s) by *Google?* 
+- [ ] [What makes Python so AWESOME](http://www.youtube.com/watch?v=u1sVfGEBKWQ) by **Raymond Hettinger**
+- [ ] [Busy Java Developer's Guide to Scala: Thinking ](https://www.youtube.com/watch?v=_qRYOayG9SM) by **Ted Neward**
+- [ ] [Up, Up, and Out: Scaling Software with Akka ](https://www.youtube.com/watch?v=GBvtE61Wrto&index=7) by **Victor Klang**
+- [ ] [Google Cloud Platform Live: Keynote](https://www.youtube.com/watch?v=qokEYBNWA_0) by **Urs Hölzle**
 
 #####Object-Oriented Programming
 
@@ -91,8 +97,16 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [ ] [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
 
 #####Computer History
+
 - [ ] [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
-- 
+
+#####Miscellaneous
+- [ ] [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) by **Brian Fitzpatrick and Ben Collins-Sussman** [55:17]
+- [ ] [Open Source Projects and Poisonous People](https://www.youtube.com/watch?v=-F-3E8pyjFo) by **Brian Fitzpatrick and Ben Collins-Sussman** [57:45]
+- [ ] [Do You Believe in the Users?](https://www.youtube.com/watch?v=2an9bWOo89o) by **Brian Fitzpatrick and Ben Collins-Sussman** [50:20]
+- [ ] [The Joys of Engineering Leadership](https://www.youtube.com/watch?v=skD1fjxSRog) by **Brian Fitzpatrick and Ben Collins-Sussman** [56:02]
+- [ ] [Programming Well with Others: Social Skills for Geeks](https://www.youtube.com/watch?v=q-7l8cnpI4k) by **Brian Fitzpatrick and Ben Collins-Sussman** [55:29]
+- [ ] [The Art of Organizational Manipulation](https://www.youtube.com/watch?v=OTCuYzAw31Y) by **Brian Fitzpatrick and Ben Collins-Sussman** [56:15]
 
 ### Takeaways
 ##### [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes)
