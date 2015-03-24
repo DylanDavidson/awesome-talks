@@ -86,7 +86,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #####Cognitive Development
 - [ ] [A Lecture on Creativity](https://www.youtube.com/watch?v=ijtQP9nwrQA) by **John Cleese** [10:37]
-- [ ] [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
+- [x] [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
 - [ ] [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
 
 #####Computer History
@@ -96,3 +96,9 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 ##### [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes)
 - You don't need a class if it only has a constructor, and one other method
 - Use built-in exceptions when possible instead of creating your own exception class
+
+##### [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk
+- If you found out you only had one year to live, you'd make the most of it. If you act like life is infinite, you won't.
+- Set tight deadlines for yourself, have a plan and not quite enough time.
+- Pursue work that puts you into the "flow", and avoid work that pulls you from this state.
+- Don't seek absolute best, stop when you've found something that is good enough.
