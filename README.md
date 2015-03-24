@@ -18,7 +18,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [ ] [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
 - [ ] [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
 - [ ] [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
-- [ ] [Coding Sucks: Why a Job in Programming Is Absolute Hell](https://www.youtube.com/watch?v=MticYPfFRp8) by **Peter Welch (not shure)** [13:32]
+- [x] [Coding Sucks: Why a Job in Programming Is Absolute Hell](https://www.youtube.com/watch?v=MticYPfFRp8) by **Peter Welch (not shure)** [13:32]
 - [ ] [REST Api design](https://www.youtube.com/watch?v=HW9wWZHWhnI) by **Brian Sletten** [1:02:35]
 - [ ] [GZIP is not enough! (partial css and js updates in gmail)](http:/www.youtube.com/watch?v=whGwm0Lky2s) by *Google?*  [59:05]
 - [ ] [What makes Python so AWESOME](http://www.youtube.com/watch?v=u1sVfGEBKWQ) by **Raymond Hettinger** [1:13:20]
