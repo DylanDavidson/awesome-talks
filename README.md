@@ -18,6 +18,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [ ] [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
 - [ ] [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
 - [ ] [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
+- [ ] [Coding Sucks: Why a Job in Programming Is Absolute Hell](https://www.youtube.com/watch?v=MticYPfFRp8) by **Peter Welch (not shure)** 
 
 #####Object-Oriented Programming
 
@@ -91,13 +92,14 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #####Computer History
 - [ ] [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
+- 
 
 ### Takeaways
 ##### [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes)
 - You don't need a class if it only has a constructor, and one other method
 - Use built-in exceptions when possible instead of creating your own exception class
 
-##### [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk
+##### [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk)
 - If you found out you only had one year to live, you'd make the most of it. If you act like life is infinite, you won't.
 - Set tight deadlines for yourself, have a plan and not quite enough time.
 - Pursue work that puts you into the "flow", and avoid work that pulls you from this state.
