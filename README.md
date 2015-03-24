@@ -18,13 +18,13 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [ ] [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
 - [ ] [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
 - [ ] [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
-- [ ] [Coding Sucks: Why a Job in Programming Is Absolute Hell](https://www.youtube.com/watch?v=MticYPfFRp8) by **Peter Welch (not shure)** 
-- [ ] [REST Api design](https://www.youtube.com/watch?v=HW9wWZHWhnI) by **Brian Sletten**
-- [ ] [GZIP is not enough! (partial css and js updates in gmail)](http:/www.youtube.com/watch?v=whGwm0Lky2s) by *Google?* 
-- [ ] [What makes Python so AWESOME](http://www.youtube.com/watch?v=u1sVfGEBKWQ) by **Raymond Hettinger**
-- [ ] [Busy Java Developer's Guide to Scala: Thinking ](https://www.youtube.com/watch?v=_qRYOayG9SM) by **Ted Neward**
-- [ ] [Up, Up, and Out: Scaling Software with Akka ](https://www.youtube.com/watch?v=GBvtE61Wrto&index=7) by **Victor Klang**
-- [ ] [Google Cloud Platform Live: Keynote](https://www.youtube.com/watch?v=qokEYBNWA_0) by **Urs Hölzle**
+- [ ] [Coding Sucks: Why a Job in Programming Is Absolute Hell](https://www.youtube.com/watch?v=MticYPfFRp8) by **Peter Welch (not shure)** [13:32]
+- [ ] [REST Api design](https://www.youtube.com/watch?v=HW9wWZHWhnI) by **Brian Sletten** [1:02:35]
+- [ ] [GZIP is not enough! (partial css and js updates in gmail)](http:/www.youtube.com/watch?v=whGwm0Lky2s) by *Google?*  [59:05]
+- [ ] [What makes Python so AWESOME](http://www.youtube.com/watch?v=u1sVfGEBKWQ) by **Raymond Hettinger** [1:13:20]
+- [ ] [Busy Java Developer's Guide to Scala: Thinking ](https://www.youtube.com/watch?v=_qRYOayG9SM) by **Ted Neward** [1:04:23]
+- [ ] [Up, Up, and Out: Scaling Software with Akka ](https://www.youtube.com/watch?v=GBvtE61Wrto&index=7) by **Victor Klang** [1:06:03]
+- [ ] [Google Cloud Platform Live: Keynote](https://www.youtube.com/watch?v=qokEYBNWA_0) by **Urs Hölzle** [1:22:09]
 
 #####Object-Oriented Programming
 
