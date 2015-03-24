@@ -22,7 +22,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #####Object-Oriented Programming
 
 - [ ] [Functional is cool, but do you know OO](http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/) by **Sandro Mancuso** [54:41]
-- [ ] [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
+- [x] [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 
 #####Functional Programming
 
@@ -91,3 +91,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #####Computer History
 - [ ] [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
+
+### Takeaways
+##### [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes)
+- You don't need a class if it only has a constructor, and one other method
+- Use built-in exceptions when possible instead of creating your own exception class
