@@ -78,7 +78,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [ ] [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** [1:00:37]
 - [ ] [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** [1:00:33]
 - [ ] [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** [33:44]
-- [ ] [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)** [30:28]
+- [x] [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)** [30:28]
 - [ ] [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** [53:43]
 
 #####Methodologies
@@ -118,3 +118,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - Set tight deadlines for yourself, have a plan and not quite enough time.
 - Pursue work that puts you into the "flow", and avoid work that pulls you from this state.
 - Don't seek absolute best, stop when you've found something that is good enough.
+
+##### [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo)
+- Heavy mocking of objects can be harmful, sometimes its best to let tests hit the DB, etc.
+- When done well, TDD can aid in refactoring, but heavy mocking can make refactoring impossible
